@@ -18,3 +18,6 @@ It is not ready for release yet.
 
 Do NOT download this yet.
 
+Legal Disclaimer :
+You may NOT reupload this file or any other files of the Development team without the written permission of the project leader (ShikashiDevTeam).
+If you reupload it, you may NOT claim it as your work, or we'll come after you...
